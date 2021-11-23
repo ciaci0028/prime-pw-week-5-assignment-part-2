@@ -1,14 +1,20 @@
-header {
+.header1 {
     background-color: darkcyan;
     color: lightgray;
     text-align: center;
 }
 
-main {
+.maintext {
     background-color: lightgrey;
+    padding: 1em;
 }
 
 body {
+    margin: 0;
+   }
+
+.mainbody {
     background-image: url("record.png");
     background-color: white;
-   }
+    background-repeat: repeat;
+}
