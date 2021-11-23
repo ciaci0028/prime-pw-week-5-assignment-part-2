@@ -15,8 +15,8 @@ Add all CSS through a Stylesheet. Do not use inline styles.
 
 Update the HTML:
 
-- Place the existing `h1` inside a `header` element. 
-- Add an `h2` element into the `header` that says `YOUR NAME's Record Shop`.
+- Place the existing `h1` inside a `header` element.  // Done
+- Add an `h2` element into the `header` that says `YOUR NAME's Record Shop`. // Done
 - Place the existing `p` inside a `main` element.
 
 Add a Stylesheet:
