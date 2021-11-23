@@ -18,3 +18,8 @@ body {
     background-color: white;
     background-repeat: repeat;
 }
+
+.list {
+    background-color: lightseagreen;
+    color: white;
+}
